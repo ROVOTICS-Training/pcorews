@@ -4,6 +4,7 @@ src/pilot_gui
 src/gpio_interface
 src/thruster_interface
 src/sensor_interface
+src/rov_control
 build
 log
 install
